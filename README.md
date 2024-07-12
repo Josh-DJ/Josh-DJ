@@ -1,4 +1,4 @@
-# Joshua Jimenez
+<h1 align=center> Joshua Jimenez <h1/>
 
 Motivated software engineering enthusiast with a Bachelor of Science in Computer Science and a strong foundation in programming, algorithms, and data structures. Although my degree was completed three years ago, I have remained actively engaged in learning and mastering new technologies through self-driven projects and continuous education. Passionate about breaking into the field of software engineering and committed to continuous improvement and innovation. Seeking an entry-level software engineering position to apply my skills and grow within a dynamic and forward-thinking tech company.
 
